@@ -3,24 +3,21 @@ Aplicação desenvolvida por meio da documentação da Expo
 
 ## Programas necessários
   
-  - [Node](https://nodejs.org/en/download/)
-  + [Yarn](https://classic.yarnpkg.com/pt-BR/docs/install/#windows-stable)
   - [Expo](https://docs.expo.io/versions/v37.0.0/get-started/installation/)
-  
   
 ## Telas    
   
 ### Página Inicial
 
-![Página Inicial][logo]
-
-[logo]: https://github.com/arthurmdros/ImageShare/blob/master/Index.png "Index"
+<p align="center">
+  <img src="https://github.com/arthurmdros/ImageShare/blob/master/Index.png">
+</p>
 
 ### Página de compartilhamento de Imagem
 
-![Compartilhamentol][logo1]
-
-[logo1]: https://github.com/arthurmdros/ImageShare/blob/master/ImageShare.png "ImageShare"
+<p align="center">
+  <img src="https://github.com/arthurmdros/ImageShare/blob/master/ImageShare.png">
+</p>
 
 ## Para executar a aplicação basta seguir os passos:
   
